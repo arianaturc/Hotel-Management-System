@@ -1,4 +1,4 @@
-# 🏨 Hotel Management System (Java, OOP, Swing, PostgreSQL)
+#  Hotel Management System (Java, OOP, Swing, PostgreSQL)
 
 ## 📖 Overview
 The **Hotel Management System** is a Java application that simulates the operations of a hotel reception desk.  
@@ -8,7 +8,7 @@ The system is built using **Object-Oriented Programming (OOP)** principles and i
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 The project provides a simulation of real-world hotel management tasks, aiming to:
 - ✔️ Manage hotel rooms (status, type, price, capacity).  
 - ✔️ Handle customer bookings, check-ins, check-outs, and cancellations.  
@@ -18,7 +18,7 @@ The project provides a simulation of real-world hotel management tasks, aiming t
 
 ---
 
-## 🏗 System Design
+##  System Design
 
 ### Main Classes
 - **Hotel** → Central hub, manages rooms, users, and interactions with the database.  
@@ -32,14 +32,14 @@ The project provides a simulation of real-world hotel management tasks, aiming t
 
 ---
 
-## 🖥 Features
-- 🔐 **Login system** for users (customers & employees).  
-- 🛏 **Room Management**: add, book, free, or cancel rooms.  
-- 📅 **Booking System**: make and cancel bookings with penalty rules.  
-- 💳 **Financial Management**: compute total charges (room nights + facilities).  
-- 🏊 **Facilities Management**: add and book facilities (spa, breakfast, etc.).  
-- 💾 **Database Integration** with PostgreSQL for persistence.  
-- 🎨 **Swing GUI** for interactive use.  
+##  Features
+-  **Login system** for users (customers & employees).  
+-  **Room Management**: add, book, free, or cancel rooms.  
+-  **Booking System**: make and cancel bookings with penalty rules.  
+-  **Financial Management**: compute total charges (room nights + facilities).  
+-  **Facilities Management**: add and book facilities (spa, breakfast, etc.).  
+-  **Database Integration** with PostgreSQL for persistence.  
+-  **Swing GUI** for interactive use.  
 
 ---
 
