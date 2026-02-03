@@ -10,11 +10,11 @@ The system is built using **Object-Oriented Programming (OOP)** principles and i
 
 ##  Purpose
 The project provides a simulation of real-world hotel management tasks, aiming to:
-- ✔️ Manage hotel rooms (status, type, price, capacity).  
-- ✔️ Handle customer bookings, check-ins, check-outs, and cancellations.  
-- ✔️ Allow booking of hotel activities (pool, spa, massage, breakfast, etc.).  
-- ✔️ Support financial transactions, including cancellation fees and activity charges.  
-- ✔️ Persist data (rooms, bookings, customers, activities) across sessions.  
+-  Manage hotel rooms (status, type, price, capacity).  
+-  Handle customer bookings, check-ins, check-outs, and cancellations.  
+-  Allow booking of hotel activities (pool, spa, massage, breakfast, etc.).  
+-  Support financial transactions, including cancellation fees and activity charges.  
+-  Persist data (rooms, bookings, customers, activities) across sessions.  
 
 ---
 
